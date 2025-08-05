@@ -78,7 +78,7 @@ body {
   animation: constantGlow 1.5s ease-in-out infinite alternate;
 }
 
-@keyframes heartbeat {
+@keyframes heartbeath {
   0% {
     transform: scale(1);
   }
@@ -96,7 +96,7 @@ body {
   }
 }
 
-@keyframes glow {
+@keyframes glowh {
   from {
     text-shadow: 0 0 10px #ff0066, 0 0 20px #ff0066;
   }
@@ -105,7 +105,7 @@ body {
   }
 }
 
-@keyframes constantGlow {
+@keyframes constantGlowb {
   0% {
     text-shadow: 0 0 10px #ff0066, 0 0 20px #ff0066;
   }
@@ -163,7 +163,7 @@ body {
   font-weight: 600;
 }
 
-@keyframes shimmer {
+@keyframes shimmerh {
   0% {
     transform: translateX(-100%);
   }
@@ -196,7 +196,7 @@ body {
   font-weight: 500;
 }
 
-@keyframes floatUp {
+@keyframes floatUph {
   from {
     opacity: 0;
     transform: translate(-50%, -40%);
@@ -207,7 +207,7 @@ body {
   }
 }
 
-@keyframes fadeOut {
+@keyframes fadeOutg {
   to {
     opacity: 0;
   }
@@ -260,7 +260,7 @@ body {
   font-size: 1.1rem;
 }
 
-@keyframes fadeIn {
+@keyframes fadeIng {
   from {
     opacity: 0;
   }
@@ -269,7 +269,7 @@ body {
   }
 }
 
-@keyframes zoomIn {
+@keyframes zoomInh {
   from {
     transform: scale(0.8);
     opacity: 0;
@@ -409,7 +409,7 @@ body {
   text-shadow: 0 0 5px rgba(255, 153, 204, 0.7);
 }
 
-@keyframes pulse {
+@keyframes pulseh {
   0% {
     transform: scale(1);
     opacity: 0.8;
@@ -565,7 +565,7 @@ body {
   animation: shootingStar 20s linear infinite;
 }
 
-@keyframes twinkle {
+@keyframes twinkleh {
   0% {
     opacity: 0.3;
   }
@@ -577,7 +577,7 @@ body {
   }
 }
 
-@keyframes shootingStar {
+@keyframes shootingStarh {
   0% {
     background-position: -200px -200px;
   }
@@ -612,7 +612,7 @@ body {
   font-size: 1.5rem;
 }
 
-@keyframes float {
+@keyframes floath {
   0% {
     transform: translateY(100vh) rotate(0deg);
   }
