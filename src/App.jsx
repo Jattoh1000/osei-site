@@ -17,28 +17,27 @@ const LoveLanguagesApp = () => {
 
   // Personalized memories for Grace, Ama, and Princess
   const memories = [
-    "The first time I saw your beautiful smile",
-    "Your laughter that brightens my darkest days",
-    "Your gentle touch that comforts my soul",
-    "Your eyes that sparkle like the morning sun",
-    "Your voice that sounds like sweet music",
-    "Your kindness that knows no bounds",
-    "Your intelligence that constantly amazes me",
-    "Your courage that inspires me every day",
-    "Your warmth that makes every moment special",
-    "Your strength that holds us together",
-    "Your creativity that colors our world",
-    "Your patience that teaches me to be better",
-    "Your humor that keeps me laughing",
-    "Your wisdom that guides us forward",
-    "Your love that heals my heart",
-    "Your dedication that moves mountains",
-    "Your passion that sets my soul on fire",
-    "Your generosity that touches everyone",
-    "Your beauty that takes my breath away",
-    "Ama and Your love that completes my world",
-  ];
-
+  "The very first time I saw your smile—it felt like home",
+  "The way your laugh lights up even my darkest days",
+  "How your voice calms me, even from miles away",
+  "The way your eyes shine when you talk about things you love",
+  "The comfort I feel just thinking about your hugs",
+  "How you always find the right words when I need them most",
+  "The way you believe in us, even when things get hard",
+  "Your little messages that make my whole day better",
+  "How you make me feel close, even when we're far apart",
+  "The late night calls that make the distance feel small",
+  "The way you always see the best in me",
+  "Your patience when I overthink everything",
+  "How you laugh at my silly jokes like they’re actually funny",
+  "The way you say my name—it just sounds like love",
+  "Your strength when I feel like falling apart",
+  "Your love that never gives up on me",
+  "How you always make time for me, no matter what",
+  "The softness in your voice when you say 'I miss you'",
+  "The dreams we share, even when we're not in the same place",
+  "Ama, it’s your love that keeps me going—it’s everything to me",
+];
   const photos = [
     { img: img1, caption: "You and your bestie." },
     { img: img2, caption: "Mamuwa" },
@@ -47,7 +46,7 @@ const LoveLanguagesApp = () => {
   ];
 
   const lovePhrases = [
-    { language: "English", phrase: "I love you", phonetic: "I love you" },
+    { language: "English", phrase: "I love you baby, Grace, Ama, Princess", phonetic: "I love you" },
     { language: "French", phrase: "Je t'aime", phonetic: "Zhuh tem" },
     { language: "Spanish", phrase: "Te amo", phonetic: "Tay ah-mo" },
     { language: "Italian", phrase: "Ti amo", phonetic: "Tee ah-mo" },
