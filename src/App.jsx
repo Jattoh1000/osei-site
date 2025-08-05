@@ -40,10 +40,10 @@ const LoveLanguagesApp = () => {
   ];
 
   const photos = [
-    { img: img1, caption: "Our first wonderful moment together" },
-    { img: img2, caption: "Grace's beautiful smile that lights up my world" },
-    { img: img3, caption: "Ama's radiant energy that inspires me daily" },
-    { img: img4, caption: "Princess's gentle presence that comforts me" },
+    { img: img1, caption: "You and your bestie." },
+    { img: img2, caption: "Mamuwa" },
+    { img: img3, caption: "She has a beautiful smile that lights up my world" },
+    { img: img4, caption: "Scholar and baddie" },
   ];
 
   const lovePhrases = [
