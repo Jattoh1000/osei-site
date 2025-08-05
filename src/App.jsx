@@ -156,6 +156,7 @@ const LoveLanguagesApp = () => {
         <div className="shooting-stars"></div>
       </div>
 
+      {/* 
       <div className="hearts-container">
         {Array.from({ length: 20 }).map((_, i) => (
           <div
@@ -172,7 +173,9 @@ const LoveLanguagesApp = () => {
             ❤
           </div>
         ))}
-      </div>
+      </div> 
+      
+      */}
 
       <div className="container">
         <h1 className="title">For Grace, Ama & Princess</h1>
